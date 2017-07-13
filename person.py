@@ -1,3 +1,4 @@
+#A program to tell a person's name and age 
  def get_age():
 	age = int (raw_input("What is your age?"))
    return age
