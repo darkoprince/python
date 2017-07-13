@@ -1,4 +1,4 @@
-#working on while using python
+#working on while_loop using python
 
 i = 6
 while (i < 10):
